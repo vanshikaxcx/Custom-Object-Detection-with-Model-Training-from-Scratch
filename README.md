@@ -75,7 +75,12 @@ Modern single-stage detector with C2f modules and anchor-free head.
 ├── approach2/
 │   ├── 1.jpeg - 10.jpeg          # Faster R-CNN results
 │   └── faster-rcnn-task1.ipynb   # Implementation notebook
+├── approach3/                    # YOLOv8
+│   └── yolo.ipynb
+└── approach4/                    # CCTT Transformer
+│   └── task1-paper-implementation.ipynb
 └── README.md
+
 ```
 
 ## Key Takeaways
